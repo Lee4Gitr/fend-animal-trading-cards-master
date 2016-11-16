@@ -1,0 +1,35 @@
+/* add your CSS here */
+.interesting-fact {
+	font-style: italic;
+}
+.card {
+	width: 360px;
+	border: 3px solid grey;
+	margin: 10px;
+	box-shadow: 10px 10px 5px 6px #ccc; 
+}
+.skag-information{
+	border: 3px solid grey;
+	margin: 10px;
+	text-align: left;
+}
+span {
+	font-weight: bold;
+}
+li {
+	list-style-type: none;
+	margin: 1em;
+}
+h3 {
+	margin: 10px;
+	font-size: 3em;
+}
+img {
+	border: 1px solid grey;
+	max-width: 300px;
+	margin-left: 30px;
+	margin-right: 30px;
+}
+p {
+	margin: 10px;
+}
